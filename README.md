@@ -11,7 +11,7 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Give it a name
 
 ### First commit
-- [ ] Check this to make a change
+- [ m] Check this to make a change
 
 * Check the checkmark above by putting an x between the brackets
 * Then
