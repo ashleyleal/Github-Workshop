@@ -11,6 +11,8 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Give it a name
 
 ### First commit
+- [ ] Check this to make a change
+
 - Write something here: 
 
 * You can open the repo by going to repository and then open in explorer. (Can also press Ctrl+Shift+A to open in text editor)
